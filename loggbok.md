@@ -22,3 +22,9 @@ gjorde arbetet i figma och det var väldigt lätt
 
 
 FIGMA LÄNK https://www.figma.com/file/IILPbJpZqEUqEFe9n1D0Hz/CV?node-id=0%3A1 
+
+<ANDRA PASSET 2022-10-26>
+
+Fixade sidebar med färgschemma samma som i figma. Justerade storlekar och la in en bild.
+Fixade Font också och sidebar fick rund kanter med svart outline.
+Behöver fixa timelinen och experiences nästa lektion.
