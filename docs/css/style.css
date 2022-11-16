@@ -5,8 +5,9 @@ body {
     font-family: 'Lilita One', cursive;
 }
 
-
-
+h1 {
+  right: 500ch;
+}
 
 .with-sidebar {
     display: flex;
@@ -54,11 +55,6 @@ img {
   box-sizing: border-box;
 }
 
-/* Set a background color */
-body {
-  background-color: #474e5d;
-  font-family: 'Lilita One', cursive;
-}
 
 /* The actual timeline (the vertical ruler) */
 .timeline {
