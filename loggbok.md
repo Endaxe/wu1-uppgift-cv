@@ -1,7 +1,5 @@
 # Loggbok för CV
 
-## Planering
-
 ## Log
 
 <FÖRSTA PASSET 2022-10-19>

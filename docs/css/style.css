@@ -11,7 +11,7 @@ body {
   position:relative;
 
   font-size: 300%;
-  top: -39;
+  top: -30;
 
 }
 
@@ -29,10 +29,10 @@ body {
 
   position: absolute;
   width: 1050px;
-  height: 100px;
+  height: 110px;
   right: 10px;
 
-  top: 39;
+  top: 25;
 }
 
 
@@ -143,9 +143,9 @@ img {
   width: 0;
   z-index: 1;
   left: 30px;
-  border: medium solid white;
+  border: medium solid #D6CE9D;
   border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
+  border-color: transparent #D6CE9D transparent transparent;
 }
 
 /* Add arrows to the right container (pointing left) */
@@ -157,9 +157,9 @@ img {
   width: 0;
   z-index: 1;
   left: 30px;
-  border: medium solid white;
+  border: medium solid #D6CE9D;
   border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
+  border-color: transparent #D6CE9D transparent transparent;
 }
 
 /* Fix the circle for containers on the right side */
@@ -173,7 +173,7 @@ img {
 /* The actual content */
 .content {
   padding: 20px 30px;
-  background-color: white;
+  background-color: #D6CE9D;
   position: relative;
   border-radius: 6px;
 }
