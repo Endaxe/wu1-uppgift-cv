@@ -28,3 +28,7 @@ FIGMA LÄNK https://www.figma.com/file/IILPbJpZqEUqEFe9n1D0Hz/CV?node-id=0%3A1
 Fixade sidebar med färgschemma samma som i figma. Justerade storlekar och la in en bild.
 Fixade Font också och sidebar fick rund kanter med svart outline.
 Behöver fixa timelinen och experiences nästa lektion.
+
+<HEMMA 2022-11-22>
+
+Fixade till timeline så att innehållet var inuti lådorna. Flyttade runt timeline,pilarna,container och cirklarna och bytte färger och storlek. Fixad en top nav vilket jag gjorde om till en top bar. Gjorde headern till en class och flyttade runt den/bytte storlek
