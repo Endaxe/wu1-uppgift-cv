@@ -5,6 +5,10 @@ body {
     font-family: 'Lilita One', cursive;
 }
 
+li{
+  margin: 30px 0;
+}
+
 
 .Experiences {
   right: -25%;
@@ -21,7 +25,7 @@ body {
   
   border-radius: 25px;
     
-  border: 2px solid black;
+  border: 3px solid black;
   padding: 20px;
 
   flex-basis: 10rem;
@@ -48,7 +52,7 @@ body {
 
 
     border-radius: 25px;
-    border: 2px solid black;
+    border: 3px solid black;
     padding: 20px;
 
     flex-basis: 10rem;
@@ -68,13 +72,13 @@ ul.a {
 }
 
 img {
-    border: 5px solid black;
+    border: 6px solid black;
     border-radius: 1px;
     padding: 5px;
     width: 150px;
 
     border-radius: 25px;
-    border: 2px solid black;
+    border: 3px solid black;
   
   }
 
