@@ -86,9 +86,10 @@ ul.a {
 
   .logotyp {
     padding: 5px;
-    width: 100px;
-    top: 0%;
-    position: relative;
+    width: 400px;
+    top: -320%;
+    right: -90%;
+    position: absolute;
 }
 
  
