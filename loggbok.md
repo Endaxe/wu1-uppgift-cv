@@ -49,15 +49,15 @@ Hosting, sidan fungerar på github pages.
  
  }
  
- Alla dokument validerar som korrekt CSS, https://jigsaw.w3.org/css-validator/ ✔️
- Sidans struktur är korrekt, indrag och formattering. ✔️
- Sidan använder semantiska strukturelement. ✔️
- Sidans innehåll är korrekt, stäm av med Figma. ✔️
- Sidan följer alla relevanta lagar och regler för publicering på webben. ✔️
- Testa att öppna sidan på en mobiltelefon. ✔️  Följer inte rätt upplösning Fel vid positions i style.css
- Testa att öppna sidan på en dator.✔️ ser bra ut i 1920x1080 200%
- Kör WAVE, inga fel, arbeta med varningar. ✔️
- Sidans media är optimerat, ex. bildstorlek och upplösning. ❌ uh nä
- Sidan fungerar utan javascript.
- Sidan fungerar utan CSS. ✔️ ser bara dåligt ut
- Kör lighthouse i Google Chrome devtools. (93% prestanda 100% tillgänglighet 92% bästa metoder 92% SEO) ✔️
+- Alla dokument validerar som korrekt CSS, https://jigsaw.w3.org/css-validator/ ✔️
+- Sidans struktur är korrekt, indrag och formattering. ✔️
+- Sidan använder semantiska strukturelement. ✔️
+- Sidans innehåll är korrekt, stäm av med Figma. ✔️
+- Sidan följer alla relevanta lagar och regler för publicering på webben. ✔️
+- Testa att öppna sidan på en mobiltelefon. ✔️  Följer inte rätt upplösning Fel vid positions i style.css
+- Testa att öppna sidan på en dator.✔️ ser bra ut i 1920x1080 200%
+- Kör WAVE, inga fel, arbeta med varningar. ✔️
+- Sidans media är optimerat, ex. bildstorlek och upplösning. ❌ uh nä
+- Sidan fungerar utan javascript.
+- Sidan fungerar utan CSS. ✔️ ser bara dåligt ut
+- Kör lighthouse i Google Chrome devtools. (93% prestanda 100% tillgänglighet 92% bästa metoder 92% SEO) ✔️
