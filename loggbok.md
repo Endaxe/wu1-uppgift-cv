@@ -30,3 +30,32 @@ Behöver fixa timelinen och experiences nästa lektion.
 <HEMMA 2022-11-22>
 
 Fixade till timeline så att innehållet var inuti lådorna. Flyttade runt timeline,pilarna,container och cirklarna och bytte färger och storlek. Fixad en top nav vilket jag gjorde om till en top bar. Gjorde headern till en class och flyttade runt den/bytte storlek
+
+
+<Checklista för webbplats 2022-12-07>
+
+Hosting, sidan fungerar på github pages.
+ Alla resurser fungerar och använder relativa sökvägar. ✔️
+ Alla länkar fungerar. ✔️
+ Sidans innehåll och resurser hostas lokalt på Git eller använder en CDN. ✔️
+ Alla dokument validerar som korrekt HTML, https://validator.nu/  ❌ {
+ 
+ Start tag seen without seeing a doctype first. Expected <!DOCTYPE html>. ❌ 
+ End tag main seen, but there were open elements. ❌ ✔️ fixad
+  Unclosed element div. ❌ ✔️ fixad
+  Unclosed element div. ❌ ✔️ fixad
+ 
+ }
+ 
+ Alla dokument validerar som korrekt CSS, https://jigsaw.w3.org/css-validator/ ✔️
+ Sidans struktur är korrekt, indrag och formattering. ✔️
+ Sidan använder semantiska strukturelement. ✔️
+ Sidans innehåll är korrekt, stäm av med Figma. ✔️
+ Sidan följer alla relevanta lagar och regler för publicering på webben. ✔️
+ Testa att öppna sidan på en mobiltelefon. ✔️  [Följer inte rätt upplösning] Fel vid positions i style.css
+ Testa att öppna sidan på en dator.✔️ ser bra ut i 1920x1080 200%
+ Kör WAVE, inga fel, arbeta med varningar. ✔️
+ Sidans media är optimerat, ex. bildstorlek och upplösning. ❌ uh nä
+ Sidan fungerar utan javascript.
+ Sidan fungerar utan CSS. ✔️ ser bara dåligt ut
+ Kör lighthouse i Google Chrome devtools. (93% prestanda 100% tillgänglighet 92% bästa metoder 92% SEO) ✔️
