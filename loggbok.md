@@ -32,8 +32,8 @@ Behöver fixa timelinen och experiences nästa lektion.
 Fixade till timeline så att innehållet var inuti lådorna. Flyttade runt timeline,pilarna,container och cirklarna och bytte färger och storlek. Fixad en top nav vilket jag gjorde om till en top bar. Gjorde headern till en class och flyttade runt den/bytte storlek
 
 
-<Checklista för webbplats 2022-12-07>
-
+<Checklista för webbplats 2022-12-07> [ÖPPNA I EDIT FÖR ATT SE]
+SS
 Hosting, sidan fungerar på github pages.
  Alla resurser fungerar och använder relativa sökvägar. ✔️
  Alla länkar fungerar. ✔️
