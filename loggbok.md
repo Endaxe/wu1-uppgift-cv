@@ -32,8 +32,10 @@ Behöver fixa timelinen och experiences nästa lektion.
 Fixade till timeline så att innehållet var inuti lådorna. Flyttade runt timeline,pilarna,container och cirklarna och bytte färger och storlek. Fixad en top nav vilket jag gjorde om till en top bar. Gjorde headern till en class och flyttade runt den/bytte storlek
 
 
-<Checklista för webbplats 2022-12-07> ÖPPNA I EDIT FÖR ATT SE
-SS
+<Checklista för webbplats 2022-12-07> 
+
+ÖPPNA I EDIT FÖR ATT SE
+
 Hosting, sidan fungerar på github pages.
  Alla resurser fungerar och använder relativa sökvägar. ✔️
  Alla länkar fungerar. ✔️
@@ -52,7 +54,7 @@ Hosting, sidan fungerar på github pages.
  Sidan använder semantiska strukturelement. ✔️
  Sidans innehåll är korrekt, stäm av med Figma. ✔️
  Sidan följer alla relevanta lagar och regler för publicering på webben. ✔️
- Testa att öppna sidan på en mobiltelefon. ✔️  (Följer inte rätt upplösning) Fel vid positions i style.css
+ Testa att öppna sidan på en mobiltelefon. ✔️  Följer inte rätt upplösning Fel vid positions i style.css
  Testa att öppna sidan på en dator.✔️ ser bra ut i 1920x1080 200%
  Kör WAVE, inga fel, arbeta med varningar. ✔️
  Sidans media är optimerat, ex. bildstorlek och upplösning. ❌ uh nä
