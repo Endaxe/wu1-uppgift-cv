@@ -64,16 +64,16 @@ Fixade till timeline så att innehållet var inuti lådorna. Flyttade runt timel
 
 
 ###Dokumentera
--Vad har gått bra med HTML/CSS/MEDIA.
-Själva bas strukturen, sidbar, topbar och innehållet i dem generellt. Färga och style generellt gick rätt bra.
+- Vad har gått bra med HTML/CSS/MEDIA.
+- Själva bas strukturen, sidbar, topbar och innehållet i dem generellt. Färga och style generellt gick rätt bra.
 
--Vad behöver/vill du lära dig mer om utifrån dessa delar.
--Hur position fungerar i style.css alltså absolute flex och relative
--Få sidan att anpassa sig efter resolution
+- Vad behöver/vill du lära dig mer om utifrån dessa delar.
+- Hur position fungerar i style.css alltså absolute flex och relative
+- Få sidan att anpassa sig efter resolution
 
--Hur gick validering och tester. Skriv om fel, varningar och saker du ändrat på.
--Det gick rätt bra, majoriteten var redan klar
--Felen i koden när jag checkade i validation sidan var kopplade till en och samma problem. Så när jag fixade den så försvann dem andra.
--Tycker ändå htmlen ser ut som figma prototypen 
+- Hur gick validering och tester. Skriv om fel, varningar och saker du ändrat på.
+- Det gick rätt bra, majoriteten var redan klar
+- Felen i koden när jag checkade i validation sidan var kopplade till en och samma problem. Så när jag fixade den så försvann dem andra.
+- Tycker ändå htmlen ser ut som figma prototypen 
 
 
