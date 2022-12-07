@@ -34,18 +34,17 @@ Fixade till timeline så att innehållet var inuti lådorna. Flyttade runt timel
 
 <Checklista för webbplats 2022-12-07> 
 
-ÖPPNA I EDIT FÖR ATT SE
 
-Hosting, sidan fungerar på github pages.
- Alla resurser fungerar och använder relativa sökvägar. ✔️
- Alla länkar fungerar. ✔️
- Sidans innehåll och resurser hostas lokalt på Git eller använder en CDN. ✔️
- Alla dokument validerar som korrekt HTML, https://validator.nu/  ❌ {
+- Hosting, sidan fungerar på github pages. ✔️
+ - Alla resurser fungerar och använder relativa sökvägar. ✔️
+- Alla länkar fungerar. ✔️
+- Sidans innehåll och resurser hostas lokalt på Git eller använder en CDN. ✔️
+- Alla dokument validerar som korrekt HTML, https://validator.nu/  ❌ {
  
- Start tag seen without seeing a doctype first. Expected <!DOCTYPE html>. ❌ 
- End tag main seen, but there were open elements. ❌ ✔️ fixad
-  Unclosed element div. ❌ ✔️ fixad
-  Unclosed element div. ❌ ✔️ fixad
+- Start tag seen without seeing a doctype first. Expected <!DOCTYPE html>. ❌ 
+ - End tag main seen, but there were open elements. ❌ ✔️ fixad
+ - Unclosed element div. ❌ ✔️ fixad
+  - Unclosed element div. ❌ ✔️ fixad
  
  }
  
